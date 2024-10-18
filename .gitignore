@@ -1,0 +1,9 @@
+# .NET build and configuration files
+bin/
+obj/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Visual Studio 2017 auto generated files
+Generated\ Files/ 
+
